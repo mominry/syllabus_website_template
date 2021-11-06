@@ -1,0 +1,2 @@
+# syllabus_website_template
+a syllabus_website_template
